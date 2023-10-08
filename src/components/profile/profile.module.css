@@ -37,6 +37,7 @@
   list-style: none;
   width: 100%;
   justify-content: space-between;
+  text-transform: lowercase;
 }
 
 .stats li {
@@ -48,6 +49,7 @@
 .label {
   text-align: center;
   margin-bottom: 10px;
+  opacity: 0.2;
 }
 
 .quantity {

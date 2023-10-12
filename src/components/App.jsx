@@ -1,10 +1,10 @@
-import Profile from './Profile/Profile.jsx';
+import Profile from './profile/Profile.jsx';
 import user from '../data/profile.json';
 
 import Statistics from './Statistics/Statistics.jsx';
 import statsData from '../data/statistics.json';
 
-import FriendsList from './FriendsList/FriendsList.jsx';
+import FriendsList from './friendsList/FriendsList.jsx';
 import friendsData from '../data/friendsList.json';
 
 import TransactionHistory from './TransactionHistory/TransactionHistory.jsx';

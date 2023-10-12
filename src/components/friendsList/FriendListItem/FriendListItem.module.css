@@ -1,0 +1,39 @@
+.item {
+  position: relative;
+}
+
+.statusOnline {
+  position: absolute;
+  bottom: 35px;
+  right: 0;
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  background-color: greenyellow;
+}
+
+.statusOffline {
+  position: absolute;
+  bottom: 35px;
+  right: 0;
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  background-color: red;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  background-color: #c7ebe9;
+  border-radius: 48px;
+  padding: 15px;
+}
+
+.name {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 300;
+}

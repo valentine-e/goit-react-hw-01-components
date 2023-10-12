@@ -1,14 +1,14 @@
-import Profile from './profile/profile.jsx';
-import user from './profile/profile.json';
+import Profile from './Profile/Profile.jsx';
+import user from '../data/profile.json';
 
-import Statistics from './stats/statistics.jsx';
-import statsData from './stats/statistics.json';
+import Statistics from './Statistics/Statistics.jsx';
+import statsData from '../data/statistics.json';
 
-import FriendsList from './friendsList/friendsList.jsx';
-import friendsData from './friendsList/friendsList.json';
+import FriendsList from './FriendsList/FriendsList.jsx';
+import friendsData from '../data/friendsList.json';
 
-import TransactionHistory from './transactions/transactionHistory.jsx';
-import transactionsData from './transactions/transactionHistory.json';
+import TransactionHistory from './TransactionHistory/TransactionHistory.jsx';
+import transactionsData from '../data/transactionHistory.json';
 
 export const App = () => {
   return (

@@ -1,0 +1,7 @@
+.friendList {
+  padding: 60px 200px;
+  display: flex;
+  justify-content: space-between;
+  background-color: honeydew;
+  list-style: none;
+}
